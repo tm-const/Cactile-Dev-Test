@@ -1,5 +1,5 @@
 # Cactile Dev Test Config
-<p align="left">Website Link: <a href="https://ogkdevtest.wpengine.com/">OGK Dev Test Config</a></p>
+<p align="left">Website Link: <a href="https://ogkdevtest.wpengine.com/">[Cactile Dev Test Config](https://ogkdevtest.wpengine.com/)</a></p>
 
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
@@ -9,6 +9,10 @@ Create a WordPress theme based off of the provided design mock-up using the Adva
 site. Use ACF for all site content: images, text, links, etc. You may view the plugin documentation at this link:
 
 <a href="_blank" href="https://www.advancedcustomfields.com/resources/">https://www.advancedcustomfields.com/resources/</a>
+
+## Custom XD Design:
+
+<a href="https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/">XD Design</a>
 
 ## Your project must use the following elements:
 

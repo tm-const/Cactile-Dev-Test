@@ -1,9 +1,5 @@
 # OGK Dev Test Config
-<p align="center">
-  <a href="https://ogkdevtest.wpengine.com/">
-    OGK Dev Test Config
-  </a>
-</p>
+<p align="left">Website Link: <a href="https://ogkdevtest.wpengine.com/">OGK Dev Test Config</a></p>
 
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 

@@ -12,7 +12,7 @@ site. Use ACF for all site content: images, text, links, etc. You may view the p
 
 ## Custom XD Design:
 
-<a href="https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/">XD Design</a>
+<a href="https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/">XD Design: https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/</a>
 
 ## Your project must use the following elements:
 

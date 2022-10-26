@@ -14,6 +14,8 @@ site. Use ACF for all site content: images, text, links, etc. You may view the p
 
 <a href="https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/">XD Design: https://xd.adobe.com/view/12ed1653-7a6b-484e-ab72-bd828ebe2fec-47be/</a>
 
+<img src="https://mannyquintanilla.com/wp-content/uploads/2022/10/cactile.png"/>
+
 ## Your project must use the following elements:
 
 - Use Advanced Custom Fields for all site content
